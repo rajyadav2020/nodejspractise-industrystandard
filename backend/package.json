@@ -14,5 +14,9 @@
     "dotenv": "^17.4.2",
     "fs": "^0.0.1-security",
     "http": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.12",
+    "typescript": "^7.0.2"
   }
 }
